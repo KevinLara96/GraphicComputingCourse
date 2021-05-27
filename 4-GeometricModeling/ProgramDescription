@@ -1,0 +1,1 @@
+In this program, we learned how to use the different transformations available to draw or to create a character from the game "Crossy Roads". We used GL_TRIANGLES to create a cube and then, apply all the transformations to it, to create the final character.
