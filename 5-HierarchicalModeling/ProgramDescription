@@ -1,0 +1,2 @@
+In this program, we modeled an arm functionality, i.e. We draw an arm, a forearm, a hand and four fingers, with their respective movements and limitations.
+First, we set the pivot for the arm, i.e. the shoulder, then the elbow, then the wrist and finally, the pivots for all four fingers.
