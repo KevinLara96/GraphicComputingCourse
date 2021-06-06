@@ -1,1 +1,5 @@
 In this lesson, we learned how to use different kind of iluminations, and how to project them into several textures along the environment.
+The different kind of iluminations introduced in this program are: 
+Directional light -> All the light in the environment.
+Point light -> The light produced by a light source.
+Spotlight -> the specific point in which the light hits an object.
